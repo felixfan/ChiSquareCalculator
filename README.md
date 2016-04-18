@@ -12,3 +12,7 @@ A Java tool computes cumulative probabilities, based on the chi-square statistic
 IDE: NetBeans    
 soure cord: src directory    
 runnable jar: dist directory     
+
+# Citation:
+
+Yanhui Fan. (2016) ChiSquareCalculator: chi-square calculator. Zenodo. [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.49975.svg)](http://dx.doi.org/10.5281/zenodo.49975)
